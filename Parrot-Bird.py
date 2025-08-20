@@ -11,4 +11,4 @@ print("Twink is a {}".format(Twink.species))
 print("Wubba is also a {}".format(Wubba.species))
 
 print("{} is {} years old".format(Twink.age))
-print("{} is {} years old".format(Wubba.aage))
+print("{} is {} years old".format(Wubba.age))
